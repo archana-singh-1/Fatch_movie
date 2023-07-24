@@ -1,0 +1,43 @@
+.box{
+	border:solid 2px black;
+	height:400px;
+	width:400px;
+	margin-left:700px;
+}
+.container{
+	margin-left:700px;
+}
+.nav{
+	margin-left:700px;
+	margin-top:7px;
+}
+#click{
+	background:red;
+	border:solid 2px black;
+	height:50px;
+	width:50px;
+}
+#color{
+	background:yellow;
+}
+
+#red{
+	height:50px;
+	width:50px;
+	border:solid 2px black;
+}
+#pink{
+	height:50px;
+	width:50px;
+	border:solid 2px black;
+}
+#yellow{
+	height:50px;
+	width:50px;
+	border:solid 2px black;
+}
+#green{
+	height:50px;
+	width:50px;
+	border:solid 2px black;
+}
